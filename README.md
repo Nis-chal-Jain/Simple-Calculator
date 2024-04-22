@@ -14,4 +14,4 @@ There are total 6 themes
   Red
 
 # Try it yourself using the url below
-
+https://simple-calculator-ruddy.vercel.app/
